@@ -1,0 +1,7 @@
+[project]
+name = "hugging-face-agents-course-practice"
+version = "0.1.0"
+description = "Just practice code for the Hugging Face Agents course https://huggingface.co/learn/agents-course/"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
