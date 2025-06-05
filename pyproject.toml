@@ -5,6 +5,8 @@ description = "Just practice code for the Hugging Face Agents course https://hug
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "duckduckgo-search>=8.0.2",
     "huggingface-hub>=0.32.0",
+    "smolagents>=1.17.0",
     "transformers>=4.52.3",
 ]
